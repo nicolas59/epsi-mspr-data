@@ -1,14 +1,8 @@
 Lailey
 Grover
-Surveillance entrepôt
+Agent
 km9738CU
 
-taser
-menottes
-lacrymo
-mousqueton
-gants
-cyno
-talky
 kit
-lampe
+menottes
+mousqueton

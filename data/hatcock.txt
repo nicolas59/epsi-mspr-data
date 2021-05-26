@@ -1,13 +1,8 @@
 Atcock
 Hanan
-Surveillance entrepôt
+Agent
 6T1YJr
 
-taser
-mousqueton
-brassard
-lampe
-lacrymo
-menottes
-talky
+cyno
 gants
+lampe

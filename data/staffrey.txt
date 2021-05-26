@@ -1,10 +1,11 @@
 Taffrey
 Sioux
-Agent
+Surveillance entrepôt
 fa2Eg8ZGFBeI
 
-talky
-gants
-lampe
 menottes
+gants
+taser
 lacrymo
+kit
+talky

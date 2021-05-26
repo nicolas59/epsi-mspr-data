@@ -1,10 +1,11 @@
 Duinbleton
 Reynold
-Surveillance entrepôt
+Agent
 yMIEbFu6
 
-lacrymo
-gants
-lampe
-menottes
 brassard
+menottes
+taser
+mousqueton
+lampe
+cyno

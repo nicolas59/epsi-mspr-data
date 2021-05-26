@@ -3,5 +3,8 @@ Zedekiah
 Agent
 DYKLazGEV
 
-talky
+menottes
 taser
+lampe
+talky
+gants

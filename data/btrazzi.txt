@@ -3,13 +3,5 @@ Bryna
 Surveillance entrepôt
 2G3efPdDnMMM
 
-menottes
-kit
-lacrymo
-lampe
-brassard
-gants
-cyno
-talky
 mousqueton
-taser
+lampe

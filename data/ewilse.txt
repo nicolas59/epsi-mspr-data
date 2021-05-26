@@ -1,13 +1,14 @@
 Wilse
 Elaina
-Agent
+Surveillance entrepôt
 v1GZYx0IFbT
 
+taser
 mousqueton
 talky
-taser
-kit
-lacrymo
 lampe
 menottes
+cyno
+lacrymo
 gants
+kit

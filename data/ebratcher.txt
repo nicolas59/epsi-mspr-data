@@ -3,7 +3,9 @@ Edgardo
 Agent
 27lv61
 
-lacrymo
-mousqueton
-brassard
+gants
+menottes
+taser
 kit
+talky
+lacrymo

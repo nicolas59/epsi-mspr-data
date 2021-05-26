@@ -3,7 +3,10 @@ Marion
 Surveillance entrepôt
 UnNKix1s1Jm
 
-taser
+gants
+lacrymo
+lampe
+kit
+talky
 mousqueton
 cyno
-talky

@@ -3,12 +3,9 @@ Fredrick
 Surveillance entrepôt
 Tabgfoo6S
 
-taser
-lacrymo
-talky
-brassard
 cyno
-menottes
+taser
+mousqueton
 kit
-lampe
-gants
+menottes
+talky

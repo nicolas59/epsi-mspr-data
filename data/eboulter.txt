@@ -1,14 +1,11 @@
 Boulter
 Everard
-Surveillance entrepôt
+Agent
 pxYyG7
 
-taser
+menottes
+kit
 lacrymo
-talky
-cyno
 gants
 mousqueton
-brassard
-kit
-menottes
+cyno

@@ -3,9 +3,10 @@ Gratia
 Agent
 7B08Z4
 
-cyno
+taser
+mousqueton
+talky
 lacrymo
-gants
-menottes
-kit
 lampe
+gants
+kit

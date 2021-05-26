@@ -3,6 +3,4 @@ Ianthe
 Agent
 2sLYn33
 
-brassard
-menottes
-cyno
+mousqueton

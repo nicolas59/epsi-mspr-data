@@ -3,10 +3,13 @@ Paten
 Agent
 MM0Vij2
 
-lampe
-mousqueton
-talky
-taser
+gants
 menottes
+talky
+lampe
+brassard
 lacrymo
+kit
+mousqueton
 cyno
+taser

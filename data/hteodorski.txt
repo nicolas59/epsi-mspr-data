@@ -3,5 +3,7 @@ Huntington
 Surveillance entrepôt
 u8wU8aq
 
-lampe
-brassard
+cyno
+lacrymo
+mousqueton
+talky

@@ -1,10 +1,14 @@
 Castellaccio
 Dav
-Surveillance entrepôt
+Agent
 3kaz3zqqd
 
+kit
 menottes
-lacrymo
-cyno
-brassard
 lampe
+mousqueton
+gants
+brassard
+cyno
+taser
+lacrymo

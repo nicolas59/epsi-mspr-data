@@ -1,13 +1,14 @@
 Fildery
 Murry
-Agent
+Surveillance entrepôt
 UOyYxl1
 
-cyno
-kit
-brassard
-talky
 gants
 menottes
+brassard
+talky
+cyno
+kit
+lampe
+mousqueton
 taser
-lacrymo

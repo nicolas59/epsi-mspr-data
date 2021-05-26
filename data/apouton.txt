@@ -1,13 +1,14 @@
 Pouton
 Ari
-Surveillance entrepôt
+Agent
 JhrU5I
 
-lampe
-cyno
-taser
+kit
 brassard
 talky
+taser
+cyno
+gants
 menottes
-mousqueton
 lacrymo
+lampe

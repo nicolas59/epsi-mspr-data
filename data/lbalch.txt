@@ -4,7 +4,5 @@ Agent
 IwgqeYb
 
 lacrymo
-mousqueton
-kit
-menottes
-brassard
+cyno
+gants

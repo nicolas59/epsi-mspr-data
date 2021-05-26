@@ -4,10 +4,12 @@ Surveillance entrepôt
 qOxgZC0uHD3
 
 taser
-lampe
-gants
-lacrymo
 brassard
-menottes
-kit
+mousqueton
 talky
+cyno
+lampe
+kit
+menottes
+lacrymo
+gants

@@ -1,15 +1,12 @@
 Braznell
 Merralee
-Agent
+Surveillance entrepôt
 dTn5BpBS
 
-cyno
 taser
-gants
-talky
-kit
-menottes
-lampe
-brassard
 mousqueton
+brassard
+talky
 lacrymo
+lampe
+kit

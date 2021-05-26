@@ -1,11 +1,6 @@
 Kubicki
 Jordanna
-Surveillance entrepôt
+Agent
 UlaPWYKpEhA5
 
-gants
-mousqueton
-lampe
-cyno
-talky
-kit
+lacrymo

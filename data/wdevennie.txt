@@ -3,10 +3,9 @@ Weider
 Surveillance entrepôt
 7xqedd
 
-taser
-menottes
-lacrymo
 lampe
-mousqueton
 talky
+taser
+lacrymo
 cyno
+gants

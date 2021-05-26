@@ -1,8 +1,7 @@
 Cartlidge
 Gerri
-Agent
+Surveillance entrepôt
 D6944WeK60s
 
-menottes
-kit
-cyno
+talky
+lampe

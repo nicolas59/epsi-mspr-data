@@ -3,12 +3,5 @@ Seamus
 Agent
 zWqK4H
 
-talky
-gants
-cyno
 menottes
-mousqueton
-lacrymo
-kit
-brassard
-taser
+gants

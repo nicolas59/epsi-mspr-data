@@ -1,9 +1,11 @@
 Lassen
 Kaiser
-Surveillance entrepôt
+Agent
 dYUBppUSiLJP
 
-talky
-mousqueton
-menottes
 gants
+brassard
+cyno
+kit
+lacrymo
+menottes

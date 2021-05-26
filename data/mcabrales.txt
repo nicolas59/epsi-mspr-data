@@ -1,11 +1,6 @@
 Cabrales
 Matilde
-Surveillance entrepôt
+Agent
 fKnDCBSRtpG
 
-mousqueton
-lacrymo
-lampe
-talky
-taser
-kit
+menottes

@@ -3,7 +3,6 @@ Guthry
 Surveillance entrepôt
 XXm72l3Q6jWX
 
+lampe
 brassard
-talky
-lacrymo
-mousqueton
+kit
